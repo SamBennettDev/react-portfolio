@@ -11,6 +11,8 @@
   font-family: "Poppins", sans-serif;
   scroll-behavior: smooth;
   color-scheme: dark;
+  --grad-1: #313dcf;
+  --grad-2: #010910;
 }
 
 .hash-span {
@@ -34,9 +36,13 @@
 }
 
 .blue-gradient {
-  background: #313dcf;
-  background: linear-gradient(-90deg, #313dcf 0%, #010910 100%);
-  background: -webkit-linear-gradient(-90deg, #313dcf 0%, #010910 100%);
+  background: var(--grad-1);
+  background: linear-gradient(-90deg, var(--grad-1) 0%, var(--grad-2) 100%);
+  background: -webkit-linear-gradient(
+    -90deg,
+    var(--grad-1) 0%,
+    var(--grad-2) 100%
+  );
 }
 
 .green-pink-gradient {
