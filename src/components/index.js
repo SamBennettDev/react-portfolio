@@ -6,5 +6,16 @@ import Experience from "./Experience";
 import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
+import Transcript from "./Transcript";
 
-export { Hero, Navbar, About, Tech, Experience, Works, Feedbacks, Contact };
+export {
+  Hero,
+  Navbar,
+  About,
+  Tech,
+  Experience,
+  Works,
+  Feedbacks,
+  Contact,
+  Transcript,
+};
