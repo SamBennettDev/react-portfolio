@@ -1,31 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{display:none;}
+	.st0{display:none;}
+	.st1{display:inline;fill:url(#SVGID_1_);}
 	.st2{display:inline;fill:#FFFFFF;}
 	.st3{font-family:'Montserrat-SemiBold';}
 	.st4{font-size:518.9364px;}
-	.st5{display:inline;opacity:0;fill:#FFFFFF;}
-	.st6{fill:#FFFFFF;}
-	.st7{font-family:'Montserrat-Bold';}
-	.st8{font-size:949.6293px;}
+	.st5{display:inline;opacity:0;fill:#FFFFFF;enable-background:new    ;}
+	.st6{font-family:'Montserrat-Bold';}
+	.st7{font-size:949.6293px;}
+	.st8{fill:#3591EF;}
 </style>
-<g id="Layer_2">
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.1258" y1="400.1722" x2="800.1259" y2="400.1722">
+<g id="Layer_2_00000158014511721355011590000017370845803254480556_" class="st0">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.13" y1="399.83" x2="800.13" y2="399.83" gradientTransform="matrix(1 0 0 -1 0 800)">
 		<stop  offset="0" style="stop-color:#0D1026"/>
 		<stop  offset="1" style="stop-color:#054F91"/>
 	</linearGradient>
-	<circle class="st0" cx="400.13" cy="400.17" r="400"/>
+	<circle class="st1" cx="400.1" cy="400.2" r="400"/>
 </g>
-<g id="Layer_1" class="st1">
-	<text transform="matrix(0.8191 0.5736 -0.5736 0.8191 127.3334 256.4394)" class="st2 st3 st4">&lt;</text>
-	<text transform="matrix(0.8191 0.5736 -0.5736 0.8191 255.8913 616.7413)" class="st2 st3 st4">&gt;</text>
-	<text transform="matrix(0.8191 0.5736 -0.5736 0.8191 225.3473 477.8718)" class="st5 st3 st4">/</text>
+<g id="Layer_1_00000109721369999445758380000014341355716537088660_" class="st0">
+	<text transform="matrix(0.8191 0.5736 -0.5736 0.8191 127.3336 256.4395)" class="st2 st3 st4">&lt;</text>
+	<text transform="matrix(0.8191 0.5736 -0.5736 0.8191 255.8912 616.7413)" class="st2 st3 st4">&gt;</text>
+	<text transform="matrix(0.8191 0.5736 -0.5736 0.8191 225.3472 477.8719)" class="st5 st3 st4">/</text>
 </g>
-<g id="Layer_3">
-	<text transform="matrix(1 0 0 1 97.0752 732.3684)" class="st6 st7 st8">S</text>
+<g id="Layer_3" class="st0">
+	<text transform="matrix(1 0 0 1 97.0752 732.3684)" class="st2 st6 st7">S</text>
+</g>
+<g id="Layer_4">
+	<path class="st8" d="M385.5,152.4c-21.1,0-38.3,5.2-51.9,15.4V3.7C352.2,1.2,371.7,0,392.2,0c86,0,155.4,20.6,208.1,61.8
+		c52.7,41.2,80.8,98.5,84.6,171.9H479c-1.5-25.2-10.8-45.1-27.8-59.5C434.1,159.7,412.2,152.4,385.5,152.4z M660.4,445.1
+		c-23-29.7-50.3-52.3-81.8-67.9c-31.5-15.6-72.5-31.9-123-49c-50.5-16.3-87.5-31.5-111.3-45.6c-3.9-2.3-7.5-4.8-10.8-7.4v187.7
+		c4.6,1.5,9.3,3,14.1,4.4c34.9,10.4,61.8,19.7,80.7,27.8c18.9,8.2,34.9,18.5,47.9,31.2c13,12.6,19.5,28.6,19.5,47.8
+		c0,23-8.2,41-24.5,54c-16.3,13-38.6,19.5-66.8,19.5c-27.5,0-49.7-7.6-66.8-22.8c-17.1-15.2-27.1-37.3-30-66.2v-82.1V8.3V0H105.1
+		v558.5c1.5,51.2,15.8,95,42.8,131.3c27.1,36.3,63.2,63.8,108.5,82.3C301.7,790.7,352.9,800,410,800c58.6,0,109.4-10.7,152.4-32.3
+		c43-21.5,75.8-50.4,98.5-86.8c22.6-36.3,33.9-76.8,33.9-121.3C694.8,512.9,683.3,474.7,660.4,445.1z"/>
 </g>
 </svg>
