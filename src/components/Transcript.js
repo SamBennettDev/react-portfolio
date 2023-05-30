@@ -54,13 +54,13 @@ const Transcript = () => {
         variants={fadeIn("down", "spring", 0.5, 0.75)}
       >
         <motion.div
-          className={`text-secondary xs:text-[10px] sm:text-[clamp(10px,1.5vw,14px)] whitespace-pre m-auto overflow-hidden`}
+          className={`text-secondary text-[clamp(8px,1.5vw,14px)] whitespace-pre m-auto overflow-hidden`}
           variants={contentVariants}
           initial="initial"
           animate={showFullContent ? "expanded" : "initial"}
         >
           <motion.div
-            class="mono"
+            className="mono"
             style={{ y: scrollY }}
             onScroll={handleScroll}
           >

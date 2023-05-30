@@ -11,7 +11,7 @@ const Hero = () => {
       strings: [
         `<h1 class="${styles.heroHeadText} text-white"}>Hi, I'm <span class='text-[#3591ef]'>Sam</span></h1></br><span class="${styles.heroSubText} text-white-100">Computer Science student at the University of Utah<br>Expected Graduation - Spring 2024</span>`,
       ],
-      typeSpeed: 10,
+      typeSpeed: 20,
       backSpeed: 100,
       startDelay: 300,
       backDelay: 1000,

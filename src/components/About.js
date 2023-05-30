@@ -32,7 +32,16 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        alsdfjasldfjkalsdjfasldjf\
+        I'm a skilled software engineer with a passion for learning and
+        utilizing my expertise to create innovative solutions. With a solid
+        foundation in programming languages such as Java, C++, and Python, I
+        thrive in designing and developing robust software applications. My
+        dedication to staying updated with the latest industry trends and
+        technologies enables me to deliver high-quality results that exceed
+        client expectations. Whether it's collaborating with a team or working
+        independently, I am committed to delivering efficient, scalable, and
+        user-centric solutions. Let's embark on a journey together to turn ideas
+        into reality.
       </motion.p>
       {/* <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (

@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import vimeo from "./vimeo.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -29,6 +30,9 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import spreadsheet from "./SpreadsheetExampleGUI.png";
+import agario from "./agarioclone.png";
+import algosort from "./algosort.png";
 
 export {
   logo,
@@ -59,4 +63,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  spreadsheet,
+  agario,
+  algosort,
+  vimeo,
 };
