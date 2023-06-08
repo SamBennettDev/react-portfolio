@@ -33,6 +33,7 @@ import tripguide from "./tripguide.png";
 import spreadsheet from "./SpreadsheetExampleGUI.png";
 import agario from "./agarioclone.png";
 import algosort from "./algosort.png";
+import workout from "./workoutTracker.png";
 
 export {
   logo,
@@ -67,4 +68,5 @@ export {
   agario,
   algosort,
   vimeo,
+  workout,
 };

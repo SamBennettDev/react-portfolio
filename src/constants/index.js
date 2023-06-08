@@ -19,12 +19,10 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
   spreadsheet,
   agario,
-  jobit,
   algosort,
-  tripguide,
+  workout,
   threejs,
 } from "../assets";
 
@@ -201,6 +199,28 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Workout Tracker",
+    description:
+      "A workout tracker I developed to track store my workout data in a simple and easy to use UI.",
+    tags: [
+      {
+        name: "JS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "HTML/CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Firebase",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: workout,
+    source_code_link: "https://github.com/SamBennettDev/workout-tracker",
+    source_code_type: "github",
+  },
+  {
     name: "AlgoSort",
     description:
       "An education application that teaches sorting algorithms in a fun interactive way. Written as a group over 5 weeks using source control and sprints.",
@@ -221,6 +241,7 @@ const projects = [
     image: algosort,
     source_code_link:
       "https://vimeo.com/manage/videos/831628922?embedded=false&source=video_title&owner=181630258",
+    source_code_type: "vimeo",
   },
   {
     name: "Spreadsheet Application",
@@ -243,6 +264,7 @@ const projects = [
     image: spreadsheet,
     source_code_link:
       "https://vimeo.com/735094339?embedded=true&source=video_title&owner=181630258",
+    source_code_type: "vimeo",
   },
   {
     name: "Agar.io Clone",
@@ -265,6 +287,7 @@ const projects = [
     image: agario,
     source_code_link:
       "https://vimeo.com/735121765?embedded=true&source=video_title&owner=181630258",
+    source_code_type: "vimeo",
   },
 ];
 
