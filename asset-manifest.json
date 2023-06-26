@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.affd4809.css",
-    "main.js": "/static/js/main.82077467.js",
+    "main.js": "/static/js/main.aeccf12c.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/tripguide.png": "/static/media/tripguide.991986c795ea140ba063.png",
     "static/media/carrent.png": "/static/media/carrent.6b1e855ede285c40b77f.png",
@@ -14,6 +14,7 @@
     "static/media/mobile.png": "/static/media/mobile.15e7b89f1018dcdba6e7.png",
     "static/media/agarioclone.png": "/static/media/agarioclone.63b0a61f30ec8c908c0b.png",
     "static/media/creator.png": "/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/workoutTracker.png": "/static/media/workoutTracker.15d465a6c969475ef4cf.png",
     "static/media/herobg.png": "/static/media/herobg.d8c6ad16aa036bf89273.png",
     "static/media/starbucks.png": "/static/media/starbucks.c086db5b166ea2f14de1.png",
     "static/media/github.png": "/static/media/github.ed1c06d925fff0b57e32.png",
@@ -24,11 +25,11 @@
     "index.html": "/index.html",
     "static/media/threejs.svg": "/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
     "main.affd4809.css.map": "/static/css/main.affd4809.css.map",
-    "main.82077467.js.map": "/static/js/main.82077467.js.map",
+    "main.aeccf12c.js.map": "/static/js/main.aeccf12c.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.affd4809.css",
-    "static/js/main.82077467.js"
+    "static/js/main.aeccf12c.js"
   ]
 }
